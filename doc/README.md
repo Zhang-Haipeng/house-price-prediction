@@ -1,0 +1,1 @@
+All the documentation files go into this folder.
